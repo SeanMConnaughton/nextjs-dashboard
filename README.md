@@ -1,3 +1,8 @@
+## Login Credentials 
+After deploying the assignment using the link provided on GitHub, use the following login information for access to the dummy data and the deployed project:
+## Email: user@nextmail.com
+## Password: 123456
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
